@@ -28,6 +28,7 @@ Found these email addresses:
 press@jana.com
 info@jana.com
 sales@jana.com
+avinash@jana.com
 
 
 Another example: python find_email_addresses.py aboilcompany.com
